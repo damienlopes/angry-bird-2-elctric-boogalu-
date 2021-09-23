@@ -1,1 +1,2 @@
-# angry-bird-2-elctric-boogalu-
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
